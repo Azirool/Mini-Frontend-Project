@@ -1,6 +1,6 @@
 # Mini-Components Frontend Web Projects
 
-This GitHub repository contains five mini-components frontend web projects, each located in its respective folder. These projects were created using HTML and Tailwind CSS to provide simple and professional user interfaces.
+This GitHub repository contains five mini-components frontend web projects, each located in its respective folder. These projects were created using HTML, Tailwind CSS, and are designed to provide simple and professional user interfaces. Additionally, they are built with responsive website design principles in mind, ensuring a seamless experience across various devices and screen sizes.
 
 ## Project List
 
