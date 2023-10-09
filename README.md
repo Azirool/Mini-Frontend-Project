@@ -12,19 +12,27 @@ This GitHub repository contains five frontend web projects, each located in its 
 
 2. **Login Modal**
    - Description: A login modal for user authentication.
-   - Folder: [login-modal](/login-modal/images/login-modal.png)
+   - Folder: [login-modal](/login-modal)
+   ![Login Modal](/login-modal/images/login-modal.png)
+
 
 3. **Pricing Card**
    - Description: Display pricing information for a product or service.
-   - Folder: [pricing-card](/pricing-card/images/pricing-card.png)
+   - Folder: [pricing-card](/pricing-card)
+   ![Pricing Card](/pricing-card/images/pricing-card.png)
+
 
 4. **Image Gallery**
    - Description: Showcase a collection of images with interactive features.
-   - Folder: [image-gallery](/image-gallery/images/image-gallery.png)
+   - Folder: [image-gallery](/image-gallery)
+   ![Image Gallery](/image-gallery/images/image-gallery.png)
+
 
 5. **Product Modal**
    - Description: Display product details and information in a modal.
-   - Folder: [product-modal](/product-modal/images/product-modal.png)
+   - Folder: [product-modal](/product-modal)
+   ![Product Modal](/product-modal/images/product-modal.png)
+
 
 ## Technologies Used
 
