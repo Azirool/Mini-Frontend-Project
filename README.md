@@ -7,7 +7,7 @@ This GitHub repository contains five frontend web projects, each located in its 
 1. **Email Subscribe**
    - Description: A web page for users to subscribe to email updates.
    - Folder: [email-subscribe](/email-subscribe)
-   ![Email Subscribe](D:\Coding\Udemy - Tailwind CSS From Scratch  Learn By Building Projects\00. Project\Mini Project\email-subscribe\images\email-subscribe.png)
+   ![Email Subscribe](/email-subscribe/images/email-subscribe.png)
 
 
 2. **Login Modal**
